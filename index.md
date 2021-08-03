@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Home Page
 ---
 
 ## Welcome everyone to my super cool site about Microbes!
