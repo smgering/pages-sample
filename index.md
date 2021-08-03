@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+## Welcome everyone to my super cool site about Microbes!
 
 
 #### Here are some example pages:
